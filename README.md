@@ -1,2 +1,2 @@
 # dbt_lab
-DBT Lab
+This is repo for testing DBT with Snowflake
